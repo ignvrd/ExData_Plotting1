@@ -112,3 +112,9 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+## Instructions for the files in the assignment
+The files with the R Code and the png has been commited to the root level of the git repo as requested by the assignment. 
+
+The R code is ready to be execute, but it requires some tunning depending on the operating system on your machine in order to generate the names of the days of the weeks in English. Te code that reads the file and the one in charge of printing the result to a png has been included in each file. 
+
+To make it work, use source() or open the file and execute directly the code with R Studio. The data is assumed to be in the working directory. The files are generated in this same directory. 
